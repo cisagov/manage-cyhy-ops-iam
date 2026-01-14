@@ -1,6 +1,8 @@
 # manage-cyhy-ops-iam #
 
 [![GitHub Build Status](https://github.com/cisagov/manage-cyhy-ops-iam/workflows/build/badge.svg)](https://github.com/cisagov/manage-cyhy-ops-iam/actions)
+[![License](https://img.shields.io/github/license/cisagov/manage-cyhy-ops-iam)](https://spdx.org/licenses/)
+[![CodeQL](https://github.com/cisagov/manage-cyhy-ops-iam/workflows/CodeQL/badge.svg)](https://github.com/cisagov/manage-cyhy-ops-iam/actions/workflows/codeql-analysis.yml)
 
 This is a generic skeleton project that can be used to quickly get a
 new [cisagov](https://github.com/cisagov) [Terraform
